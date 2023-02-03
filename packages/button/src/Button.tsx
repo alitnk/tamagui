@@ -35,7 +35,7 @@ export type ButtonProps = Omit<TextParentStyles, 'TextComponent'> &
      * adjust icon relative to size
      */
     /**
-     * default: -1
+     * default: 1
      */
     scaleIcon?: number
     /**
